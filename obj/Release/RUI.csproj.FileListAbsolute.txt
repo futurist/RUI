@@ -1,0 +1,8 @@
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Release\Recorder.exe.config
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\RUI.NASATLX.TLXForm.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\RUI.RUI.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\RUI.Forms.NewTask.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\RUI.Forms.TaskBreakdownForm.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Release\GenerateResource.write.1.tlog

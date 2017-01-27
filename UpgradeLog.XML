@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RUI">
+</Property><Property Name="Solution File" Value="C:\Users\Joe\Desktop\RUI_2.03\RUI.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Joe\Desktop\RUI_2.03\RUI.suo">
+</Property><Property Name="Date" Value="Tuesday, July 12, 2011">
+</Property><Property Name="Time" Value="18:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RUI.sln" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RUI.suo" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.suo">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.csproj" Description="Project file successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.csproj">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.csproj.user" Description="Project user file successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.csproj.user">
+</Event><Event ErrorLevel="0" Project="RUI" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Listeners\KeyListener.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Listeners\KeyListener.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="NASATLX\TLXForm.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\NASATLX\TLXForm.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="NASATLX\TLXForm.Designer.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\NASATLX\TLXForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\ExcelLogger.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\ExcelLogger.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\IRUILogger.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\IRUILogger.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\MouseInputType.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\MouseInputType.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\TextLogger.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\TextLogger.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Replay\RUIReplayer.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Replay\RUIReplayer.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Tasks\BreakdownStorage.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Tasks\BreakdownStorage.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Listeners\MouseListener.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Listeners\MouseListener.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\NewTask.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\NewTask.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\NewTask.Designer.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\NewTask.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\OutputProcessor.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\OutputProcessor.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Output\RUIOutput.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Output\RUIOutput.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\TaskBreakdownForm.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\TaskBreakdownForm.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\TaskBreakdownForm.Designer.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\TaskBreakdownForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Tasks\TaskBreakdown.cs" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Tasks\TaskBreakdown.cs">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Tasks\TaskBreakdown.xsd" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Tasks\TaskBreakdown.xsd">
+</Event><Event ErrorLevel="0" Project="RUI" Source="App.ico" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="RUI" Source="NASATLX\TLXForm.resx" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\NASATLX\TLXForm.resx">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.resx" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\RUI.resx">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\NewTask.resx" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\NewTask.resx">
+</Event><Event ErrorLevel="0" Project="RUI" Source="Forms\TaskBreakdownForm.resx" Description="File successfully backed up as C:\Users\Joe\Desktop\RUI_2.03\Backup\Forms\TaskBreakdownForm.resx">
+</Event><Event ErrorLevel="1" Project="RUI" Source="RUI.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RUI" Source="RUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RUI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RUI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RUI" Source="RUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

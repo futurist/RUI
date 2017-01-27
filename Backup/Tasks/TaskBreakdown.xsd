@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema
+                  targetNamespace="http://soa.arl.psu.edu/USMC/ALVTS/ADM"
+                  elementFormDefault="qualified"
+                  xmlns="http://soa.arl.psu.edu/USMC/ALVTS/ADM"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="TaskBreakdowns">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="TaskBreakdown" type="TaskBreakdown" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="TaskBreakdown">
+		<xs:sequence>
+			<xs:element name="Task" type="Task" minOccurs="0" maxOccurs="unbounded"/>			
+		</xs:sequence>
+		<xs:attribute name="Name" type="xs:string" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="Task">
+		<xs:sequence>
+			<xs:element name="Task" type="Task" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="Name" type="xs:string" use="required"/>
+	</xs:complexType>
+	
+</xs:schema>

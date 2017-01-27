@@ -1,0 +1,46 @@
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.exe
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.pdb
+C:\susan\RUI_Improved\RUI_Improved\Recorder\bin\Debug\Recorder.exe
+C:\susan\RUI_Improved\RUI_Improved\Recorder\bin\Debug\Recorder.pdb
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\ResolveAssemblyReference.cache
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.Form1.resources
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.NewTask.resources
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\susan\RUI_Improved\RUI_Improved\Recorder\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\susan\RUI_Improved\Recorder\bin\Debug\Recorder.exe
+C:\susan\RUI_Improved\Recorder\bin\Debug\Recorder.pdb
+C:\susan\RUI_Improved\Recorder\obj\Debug\ResolveAssemblyReference.cache
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.Form1.resources
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.NewTask.resources
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.exe
+C:\susan\RUI_Improved\Recorder\obj\Debug\Recorder.pdb
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.exe
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.pdb
+C:\susan\RUI_Improved2\Recorder\obj\Debug\ResolveAssemblyReference.cache
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.Form1.resources
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.NewTask.resources
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\susan\RUI_Improved2\Recorder\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\susan\RUI_Improved2\Recorder\bin\Debug\Recorder.exe
+C:\susan\RUI_Improved2\Recorder\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.Form1.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.NewTask.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved2\RUI_Improved2\Recorder\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.Form1.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.NewTask.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.RUI.resources

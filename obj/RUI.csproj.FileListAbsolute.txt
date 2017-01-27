@@ -1,0 +1,48 @@
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI_Improved\RUI_Improved\RUI2\obj\Debug\RUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\RUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\My Documents\CLP\IST521\RUI2\RUI_2.01\RUI2\obj\Debug\RUI.NASATLX.TLXForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\Recorder.pdb
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\RUI.NASATLX.TLXForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2_02\RUI_2.02\RUI2\obj\Debug\RUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\Recorder.pdb
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\bin\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\bin\Debug\Recorder.pdb
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\RUI.NASATLX.TLXForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI_2.03\obj\Debug\RUI.csproj.GenerateResource.Cache

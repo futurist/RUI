@@ -1,0 +1,41 @@
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\RUI.RUI.resources
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\RUI.Forms.NewTask.resources
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\RUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\bin\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\bin\Debug\Recorder.pdb
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\Recorder.exe
+C:\Documents and Settings\clp207\Desktop\RUI2\RUI2\obj\Debug\Recorder.pdb
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\Recorder.exe
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\Recorder.pdb
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\RUI.NASATLX.TLXForm.resources
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\RUI.RUI.resources
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\RUI.Forms.NewTask.resources
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\ResGen.read.1.tlog
+C:\Users\Joe\Desktop\RUI_2.03\obj\Debug\ResGen.write.1.tlog
+C:\Users\Joe\Desktop\RUI_2.03\bin\Debug\Recorder.exe
+C:\Users\Joe\Desktop\RUI_2.03\bin\Debug\Recorder.pdb
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Debug\Recorder.exe.config
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\Recorder.exe
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\Recorder.pdb
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Debug\Recorder.exe
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Debug\Recorder.pdb
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\RUI.NASATLX.TLXForm.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\RUI.RUI.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\RUI.Forms.NewTask.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\RUI.Forms.TaskBreakdownForm.resources
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\ResGen.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\ResGen.write.1.tlog
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Debug\Recorder.exe.manifest
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\bin\Debug\Recorder.application
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\Recorder.exe.manifest
+\\vmware-host\Shared Folders\Desktop\ACS\RUI_2.1-win\obj\Debug\Recorder.application
+D:\Downloads\RUI_2.3-win\bin\Debug\Recorder.exe.config
+D:\Downloads\RUI_2.3-win\obj\Debug\Recorder.exe
+D:\Downloads\RUI_2.3-win\obj\Debug\Recorder.pdb

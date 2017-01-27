@@ -1,0 +1,9 @@
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\bin\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\bin\Debug\Recorder.pdb
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.Form1.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.NewTask.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.TaskBreakdownForm.resources
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.exe
+C:\Documents and Settings\Chris\Desktop\IST521\RUI_Improved\Recorder\obj\Debug\Recorder.pdb
